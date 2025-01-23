@@ -25,5 +25,5 @@
 
 
 <div align="center">
-  <h3> 🖤THANKS FOR VISIT MY GITHUB🖤 </h3>
+  <h3> 🤍 THANKS FOR VISIT MY GITHUB 🤍 </h3>
 </div>
