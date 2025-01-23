@@ -12,13 +12,13 @@
 
 
 
-### CONTACT MAIL  **xprime270@gmail.com**
+#### CONTACT MAIL  **xprime270@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/100066313717374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="785316773" height="30" width="40" /></a>
 <a href="https://instagram.com/farhan_vaiya_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sefat_03" height="30" width="40" /></a>
-<a href="[[https://www./c/sefatsarker03](https://www.facebook.com/FarHan.YouR.FatHer.OkH.bbY)]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sefatsarker03" height="30" width="40" /></a>
+<a href="https://www.github.com/X-PRIME-404" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/refs/heads/master/src/images/icons/Social/github.svg" alt="sefatsarker03" height="30" width="40" /></a>
 </p>
 
 
